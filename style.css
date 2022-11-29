@@ -1,0 +1,22 @@
+.wrap {
+    width: 400px;
+    height: 840px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background: rgb(230, 224, 224);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+  }
+  
+
+  .wrap a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+  }
+
+span {
+    font-weight: bold;
+    color: blue;
+}
